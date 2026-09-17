@@ -1,0 +1,11 @@
+{
+  "name": "Remix TeachRecord - Teaching Video & Screen Recorder",
+  "description": "Screen and front camera teaching video recorder with microphone mixing, interactive whiteboard, live annotations, teleprompter, and ScreenPal-style lecture tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
